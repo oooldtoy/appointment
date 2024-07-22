@@ -1,6 +1,6 @@
 {
   "name": "Appointment PWA",
-  "short_name": "Appointment",
+  "short_name": "预约",
   "start_url": "/appointment/#/appointmentMain",
   "display": "standalone",
   "background_color": "#ffffff",
